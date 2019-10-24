@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BillBook</string>
+
+
+    <string name="amount">金额：</string>
+    <string name="etCount">输入你的花销</string>
+    <string name="type">类型</string>
+    <string name="expenditure">支出</string>
+    <string name="income">收入</string>
+    <string name="Description">描述：</string>
+    <string name="add">记一笔</string>
+    <string name="etDescrip">钱花到哪去了</string>
+    <string name="overview">收支总览</string>
+    <string name="tvInfo">当前无记录!</string>
+    <string name="total_in">总计收入</string>
+    <string name="total_out">总计支出</string>
+    <string name="insert_success">修改成功</string>
+    <string name="warming">金额和描述不能为空</string>
+
+
+    <string name="shp">loginInfo</string>
+
+</resources>
